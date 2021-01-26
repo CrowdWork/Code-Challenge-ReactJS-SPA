@@ -1,10 +1,13 @@
 Code-Challenge-ReactJS-SPA
-
-Challenge 1:
-Objective - Content Syndication
+<br>
+Challenge 1: <br> 
+Objective - Generate capital for  applied learn & earn opportunities for gig workers in the Washington, DC area.
+align digital infrastructure needs with local-first workforce development opportunities.<br>
+<br><br>
+Goal - Define step-by-step process of cloning and exchanging endpoint.
 Goal - Render data from a JSON REST API endpoint into a static frontend HTML webpage template.
-Goal - Demonstrate that any frontend language can be used to fetch posts from an API endpoint across various connected repositories.
-Goal - Map out all platform and package dependencies
+Goal - Demonstrate that any frontend language can be used to fetch posts from an API endpoint across distributed network of repositories.
+Goal - Map out all platform and package dependencies.
 
 Other Challenge Ideas:
 
@@ -31,9 +34,6 @@ Thanks to the original code sponsors - Technical Documentation Below.
 
 Create an single page app using the WordPress [REST API](https://developer.wordpress.org/rest-api/) and Create React App.
 
-_NOTE: This repo is dated, and needs to be refactored to use [React Hooks](https://reactjs.org/docs/hooks-intro.html)._
-
-https://react-wordpress-api-demo.netlify.app/
 
 ## Development
 
